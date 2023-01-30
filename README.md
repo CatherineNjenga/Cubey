@@ -40,4 +40,4 @@ The game is written in vanilla JavaScript, hence requires to run on a modern bro
 
 ### Frontend
 
-* vanilla javascript
+* Vanilla JavaScript
