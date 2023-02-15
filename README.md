@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Platform Game</h1>
+  <h1>Cubey</h1>
   <p>A two-dimensional game build with vanilla JavaScript</p>
 </div>
 
