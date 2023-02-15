@@ -11,7 +11,7 @@ The implementation of a "jump and run" game that expects the player to move a fi
 
 The game is based on [Dark Blue](http://www.lessmilk.com/game/dark-blue/) from [Eloquent JavaScript](http://eloquentjavascript.net/).
 
-Live demo: https://catherinenjenga.github.io/Platform_Game/
+Live demo: https://catherinenjenga.github.io/Cubey/
 
 ![Platform Game](assets/screenshot.png)
 
@@ -41,7 +41,7 @@ The game is written in vanilla JavaScript, hence requires to run on a modern bro
 
 1. Download ZIP or clone this repo
 ```
-> git clone https://github.com/CatherineNjenga/Platform_Game.git
+> git clone https://github.com/CatherineNjenga/Cubey.git
 ```
 2. Navigate to the folder "docs" and open index.html
 

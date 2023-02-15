@@ -201,7 +201,7 @@ class Player {
   }
 }
 
-Player.prototype.size = new Vec(0.8, 1.5);
+Player.prototype.size = new Vec(1.5, 1.5);
 
 /**
  * @class Lava
@@ -556,6 +556,5 @@ async function runGame(plans, Display) {
   }
   console.log("You've won!");
 }
-
 
 runGame(GAME_LEVELS, DOMDisplay);
