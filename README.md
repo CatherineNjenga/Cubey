@@ -11,7 +11,7 @@ The implementation of a "jump and run" game that expects the player to move a fi
 
 The game is based on [Dark Blue](http://www.lessmilk.com/game/dark-blue/) from [Eloquent JavaScript](http://eloquentjavascript.net/).
 
-Live demo: https://catherinenjenga.github.io/StarWars/
+Live demo: https://catherinenjenga.github.io/Platform_Game/
 
 ![Platform Game](assets/screenshot.png)
 
