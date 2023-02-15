@@ -1,10 +1,19 @@
-# Platform Game
+<div align="center">
+  <h1>Platform Game</h1>
+  <p>A two-dimensional game build with vanilla JavaScript</p>
+</div>
+
+## About
 
 The implementation of a "jump and run" game that expects the player to move a figure through a two-dimensional world, viewed from the side while jumping over and onto things.
 
 ## Description
 
 The game is based on [Dark Blue](http://www.lessmilk.com/game/dark-blue/) from [Eloquent JavaScript](http://eloquentjavascript.net/).
+
+Live demo: https://catherinenjenga.github.io/StarWars/
+
+![Platform Game](assets/screenshot.png)
 
 ## Features
 
@@ -41,3 +50,5 @@ The game is written in vanilla JavaScript, hence requires to run on a modern bro
 ### Frontend
 
 * Vanilla JavaScript
+* HTML/CSS
+
